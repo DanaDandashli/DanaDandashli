@@ -135,6 +135,11 @@ A real-world impact project aimed at reducing food waste.
 - ⚡ Adaptability & Continuous Learning  
 
 ---
+## ✨ Continuous Growth
+
+> “Striving to improve every day, becoming more creative with each tomorrow.”
+
+---
 
 ## 📫 Connect With Me
 
