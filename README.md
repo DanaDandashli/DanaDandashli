@@ -39,6 +39,7 @@ I’m a developer with a strong academic and practical background in **Informati
 - Structured database and backend logic for scalability and performance
 
 🔧 Tech Stack:
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -135,7 +136,7 @@ A real-world impact project aimed at reducing food waste.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((http://www.linkedin.com/in/dana-dandashli-77592125a))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dana-dandashli-77592125a)
 
 ---
 
