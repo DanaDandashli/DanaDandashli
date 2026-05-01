@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+I'm+Dana+Dandashli;Software+Engineer;Machine+Learning+Enthusiast;Backend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Dana+Dandashli;Software+Engineer;Machine+Learning+Enthusiast;Backend+Developer" />
 </p>
 
 # 👋 Hi, I'm Dana Dandashli
@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="450"/>
 </p>
 
 ## 🧠 About Me
@@ -24,6 +24,28 @@ I’m a developer with a strong academic and practical background in **Informati
 - 🌱 Learning: Advanced backend architecture & automation (n8n)
 - 💡 Interested in: Full-stack development & system design 
 - 🎯 Goal: Build impactful and efficient digital solutions
+---
+
+## 👨‍💻 Recent Project
+### 🎓 LearnGateway – Smart E-Learning Platform
+
+📌 Designed and developed a scalable e-learning system enabling structured digital education and user interaction.
+
+- Built a **multi-role architecture** (Admin / Instructor / Student)
+- Implemented **dynamic course management system**
+- Developed **secure authentication and authorization workflows**
+- Designed **interactive student experience** (enrollment, progress tracking)
+- Integrated **review and rating system** to enhance course quality
+- Structured database and backend logic for scalability and performance
+
+🔧 Tech Stack:
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
 ## 🔬 Research Experience
@@ -62,22 +84,20 @@ A real-world impact project aimed at reducing food waste.
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/CSharp-333?style=for-the-badge&logo=csharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-333?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
 ### 🌐 Web & Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-333?style=for-the-badge&logo=laravel)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-333?style=for-the-badge&logo=dotnet)
-![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
-![BOOTSTRAP](https://img.shields.io/badge/bootstrap-purple)
-
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -90,9 +110,9 @@ A real-world impact project aimed at reducing food waste.
 ---
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-333?style=for-the-badge&logo=oracle)
-![SQLite](https://img.shields.io/badge/SQLite-333?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -115,7 +135,7 @@ A real-world impact project aimed at reducing food waste.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: http://www.linkedin.com/in/dana-dandashli-77592125a 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((http://www.linkedin.com/in/dana-dandashli-77592125a))
 
 ---
 
