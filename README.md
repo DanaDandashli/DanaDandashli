@@ -27,6 +27,32 @@ I’m a developer with a strong academic and practical background in **Informati
 ---
 
 ## 👨‍💻 Recent Project
+### 🤖 EVA Academy – AI-Powered Python Learning Platform
+📌 Designed and developed a full-stack edtech platform delivering personalized Python education to children, teens, and adults through an AI tutor and mastery-based learning system.
+
+- Built **3 age-segmented tracks** (Kids 7–12, Teen 13–17, Adult 18+) with tailored UX, content tone, and difficulty
+- Developed **EVA**, an AI tutor powered by Gemini 2.5 Flash Lite using the **Socratic method** — guides without giving answers
+- Implemented a **4-node learning path** per lesson: Introduction → Application → Competition → Test
+- Enforced **mastery-based progression** with 100% pass rate required to advance
+- Built **1v1 Compete Arena** with a professional ELO rating system (dynamic K-factor, capped at 3000)
+- Integrated **in-browser Python execution** using Skulpt — zero server load for code running
+- Generated **PDF certificates** and **mini project portfolios** using ReportLab
+- Designed **XP system, leaderboard, challenges, quests, and badges** for engagement
+- Deployed with **auto-deploy on GitHub push** via Render + Supabase PostgreSQL
+
+🔧 Tech Stack:
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
 ### 🎓 LearnGateway – Smart E-Learning Platform
 
 📌 Designed and developed a scalable e-learning system enabling structured digital education and user interaction.
@@ -95,6 +121,7 @@ A real-world impact project aimed at reducing food waste.
 
 ### 🌐 Web & Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -107,6 +134,9 @@ A real-world impact project aimed at reducing food waste.
 - Spectral Clustering  
 - Graph-Based Learning  
 - Data Processing & Analysis  
+- AI Integration & Prompt Engineering  
+- Gemini AI (OpenRouter API)  
+- In-Browser Python Execution (Skulpt)
 
 ---
 
@@ -116,6 +146,7 @@ A real-world impact project aimed at reducing food waste.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PLSQL-336791?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
@@ -124,6 +155,8 @@ A real-world impact project aimed at reducing food waste.
 - Agile (Scrum, Kanban)  
 - Networking (TCP/IP) & Security  
 - Algorithms (Graph, Sorting, Searching)  
+- RESTful API Design  
+- AI-Powered Content Generation
 
 ---
 
