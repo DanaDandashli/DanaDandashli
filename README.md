@@ -27,6 +27,32 @@ I’m a developer with a strong academic and practical background in **Informati
 ---
 
 ## 👨‍💻 Recent Projects
+### 🛍️ Yousef للقطنيات - Bilingual Clothing Showcase & Reservation Platform
+
+📌 Designed, built and deployed a full-stack e-commerce showcase for a Lebanon-based clothing shop, letting customers browse men's, women's and kids' collections in English or Arabic and reserve items through WhatsApp, with a mobile-first admin panel for the shop staff.
+
+- Built a **bilingual EN/AR storefront** with full **RTL support** using Django `i18n_patterns` and `.po`/`.mo` translations
+- Modeled a rich catalog: **products, categories, brands, sizes, colors and fabrics**, with up to 5 images per product, sale pricing, stock and seasonal tags
+- Designed a **WhatsApp reservation flow** (no checkout or payment) that sends a prefilled request to the shop
+- Developed a **custom staff admin panel**, separate from Django admin, so the owner can manage products, categories and inventory from a phone
+- Added **installable home-screen apps (PWA-style)** for both the customer site and the admin panel, with a shared static assets folder
+- Stored product photos in a **private Backblaze B2 bucket** served through a custom **media proxy view** with client-side caching, keeping storage on a free tier
+- Migrated the database to **Neon (serverless PostgreSQL)**
+- Deployed on **Render** with a scripted build (`collectstatic`, `migrate`, `compilemessages`, idempotent admin bootstrap)
+
+🔧 Tech Stack:
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Neon_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Backblaze](https://img.shields.io/badge/Backblaze_B2-E21E29?style=for-the-badge&logo=backblaze&logoColor=white)
+
+---
+
 ### 🤖 EVA Academy – AI-Powered Python Learning Platform
 📌 Designed and developed a full-stack edtech platform delivering personalized Python education to children, teens, and adults through an AI tutor and mastery-based learning system.
 
